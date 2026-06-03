@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Computador não liga",
+    "description": "O computador da estação de trabalho 05 não está ligando após a atualização de ontem.",
+    "status": "Aberto",
+    "createdAt": "2026-05-28T10:30:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Problema com VPN",
+    "description": "Não consigo me conectar à VPN corporativa desde segunda-feira. Mensagem de erro: timeout.",
+    "status": "Em Andamento",
+    "createdAt": "2026-05-29T14:15:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Impressora offline",
+    "description": "A impressora do setor financeiro aparece como offline no sistema, mas está ligada.",
+    "status": "Resolvido",
+    "createdAt": "2026-05-30T09:00:00.000Z"
+  },
+  {
+    "id": "1780440052748",
+    "title": "Impressora não responde",
+    "description": "preciso de ajuda",
+    "status": "Aberto",
+    "createdAt": "2026-06-02T22:40:52.748Z"
+  },
+  {
+    "id": "1780445476540",
+    "title": "Erro de impressão",
+    "description": "impressora ruim",
+    "status": "Aberto",
+    "createdAt": "2026-06-03T00:11:16.540Z"
+  }
+]
